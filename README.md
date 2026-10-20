@@ -18,4 +18,4 @@ All learning records—including completed lessons, quiz accuracy, flashcard spa
 - `POST_NOTIFICATIONS` (Optional): Used solely to schedule local on-device daily study streak reminders when enabled by the user in Settings.
 
 ## 5. Contact Us
-If you have questions about this Privacy Policy, contact us at: [YOUR_SUPPORT_EMAIL]
+If you have questions about this Privacy Policy, contact us at: [55adarmondal@gmail.com]
